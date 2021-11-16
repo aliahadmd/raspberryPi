@@ -7,3 +7,7 @@ Find your Internet IP address
 5. Make sure your wifi is connect.
 6. Then find your Ip address.
 7. If u don't understand the software UI you can read their official doc through their website.
+
+if u have trobule!
+-----------------
+you can alo find your raspberry pi ip address through your wifi management website. (If they provide)
