@@ -10,4 +10,4 @@ Find your Internet IP address
 
 if u have trobule!
 -----------------
-you can alo find your raspberry pi ip address through your wifi management website. (If they provide)
+you can alo find your raspberry pi ip address through your wifi management website. (If your internet provider provide)
